@@ -1,18 +1,22 @@
-> [!NOTE]
-> Use the following commands while debugging.
+---
+enforcementLevel: block
+---
 
-```bash
-npm test
-npm run dev
-```
+> [!IMPORTANT]
+> Complete this checklist before closing the incident.
 
-## Validation
+## Incident Details
 
-- [ ] Tests passing
-- [ ] Lint passing
-- [ ] Type checking passing
+- [ ] Timeline documented
+- [ ] Root cause identified
+- [ ] Impact assessed
 
-## Deployment
+## Resolution
 
-- [ ] Ready for production
-- [ ] Smoke tests completed
+- [ ] Service restored
+- [ ] Monitoring verified
+
+## Follow-up
+
+- [ ] Postmortem created
+- [ ] Action items assigned
