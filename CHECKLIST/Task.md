@@ -1,16 +1,14 @@
----
-enforcementLevel: block
----
+## Work Item
 
-> [!CAUTION]
-> This checklist must be completed before closing the issue.
+- [ ] Objective understood
+- [ ] Work completed
+- [ ] Peer review completed
 
-## Security Review
+## Quality
 
-- [ ] Sensitive data reviewed
-- [ ] Security implications checked
+- [ ] Tests executed
+- [ ] Documentation updated
 
-## Deployment
+## Completion
 
-- [ ] Rollback plan prepared
-- [ ] Deployment approved
+- [ ] Stakeholders informed
