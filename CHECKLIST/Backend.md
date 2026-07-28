@@ -1,19 +1,26 @@
 ---
-enforcementLevel: advise
+enforcementLevel: warn
 ---
 
+## API
+
+- [ ] Request validation implemented
+- [ ] Error handling reviewed
+- [ ] Authentication verified
+
+## Database
+
+- [ ] Migration tested
+- [ ] Indexes reviewed
+
+## Testing
+
+```bash
+npm test
+```
+
+- [ ] Integration tests passing
+- [ ] API documentation updated
+
 > [!NOTE]
-> Review all linked documentation.
-
-> [!TIP]
-> Keep screenshots attached for easier debugging.
-
-## Analysis
-
-- [ ] Error logs collected
-- [ ] Browser information recorded
-
-## Verification
-
-- [ ] Regression testing completed
-- [ ] QA informed
+> Verify backward compatibility before deployment.
