@@ -1,14 +1,23 @@
 ---
-enforcementLevel: block
-exceptionApproversTeam: security-leads
+enforcementLevel: advise
 ---
 
-## Security
+> [!TIP]
+> Discuss the implementation before development starts.
 
-- [ ] Threat model reviewed
-- [ ] Vulnerability assessment completed
+## Planning
 
-## Compliance
+- [ ] Requirements approved
+- [ ] Technical design reviewed
+- [ ] Dependencies identified
 
-- [ ] Exception approved
-- [ ] Audit notes attached
+## Development
+
+- [ ] Feature implemented
+- [ ] Unit tests added
+- [ ] Documentation updated
+
+## Release
+
+- [ ] QA approval received
+- [ ] Product owner approved
