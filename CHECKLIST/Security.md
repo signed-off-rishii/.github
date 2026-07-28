@@ -1,9 +1,19 @@
-## Documentation
+---
+enforcementLevel: block
+exceptionApproversTeam: security-leads
+---
 
-- [ ] [API Documentation Reviewed](https://google.com/)
-- [ ] [Security Checklist Reviewed](https://youtube.com/)
+> [!WARNING]
+> Security issues require mandatory review.
 
-## Testing
+## Assessment
 
-- [ ] Unit tests updated
-- [ ] Integration tests executed
+- [ ] Threat model reviewed
+- [ ] Sensitive data identified
+- [ ] Risk level assigned
+
+## Validation
+
+- [ ] Security review completed
+- [ ] Penetration testing completed
+- [ ] Approval recorded
