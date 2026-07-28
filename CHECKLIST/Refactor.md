@@ -1,16 +1,22 @@
 ---
-enforcementLevel: warn
+enforcementLevel: advise
 ---
 
-> [!NOTE]
-> Please verify the issue before assigning it.
+## Code Quality
 
-## Investigation
+- [ ] Duplicate code removed
+- [ ] Naming improved
+- [ ] Complexity reduced
 
-- [ ] Root cause identified
-- [ ] Related issues searched
+## Verification
 
-## Validation
+```bash
+npm test
+npm run lint
+npm run typecheck
+```
 
-- [ ] Reproduced locally
-- [ ] Fix strategy documented
+- [ ] All checks passing
+
+> [!CAUTION]
+> Refactoring must not change application behaviour.
