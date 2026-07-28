@@ -2,24 +2,17 @@
 enforcementLevel: advise
 ---
 
-# Bug Review
+## Accessibility Review
 
-This issue should follow the standard investigation workflow.
+- [ ] Keyboard navigation tested
+- [ ] Screen reader tested
+- [ ] Color contrast verified
+- [ ] Focus indicators visible
 
----
+## Compliance
 
-## Checklist
+- [ ] WCAG requirements reviewed
+- [ ] Accessibility documentation updated
 
-- [ ] Reproduced
-- [ ] Fixed
-- [ ] Tested
-
----
-
-> [!IMPORTANT]
-> Ensure all linked pull requests are merged.
-
-## Final Review
-
-- [ ] Code review completed
-- [ ] Product owner informed
+> [!TIP]
+> Test with multiple browsers and assistive technologies.
