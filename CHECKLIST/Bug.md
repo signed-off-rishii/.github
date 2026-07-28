@@ -1,10 +1,24 @@
-## Pre-triage
+---
+enforcementLevel: warn
+---
+
+> [!NOTE]
+> Verify the issue before assigning it.
+
+## Reproduction
 
 - [ ] Steps to reproduce confirmed
-- [ ] Affected version identified
+- [ ] Environment details collected
 - [ ] Logs attached
+- [ ] Screenshots included
 
-## Review
+## Investigation
 
-- [ ] Linked to a milestone
-- [ ] Assigned to an owner
+- [ ] Root cause identified
+- [ ] Similar issues checked
+- [ ] Regression confirmed
+
+## Validation
+
+- [ ] Fix verified locally
+- [ ] Regression tests passed
