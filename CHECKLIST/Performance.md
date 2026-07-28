@@ -2,30 +2,18 @@
 enforcementLevel: warn
 ---
 
-## Investigation
+## Benchmarking
 
-- [ ] Root cause identified
-- [ ] Logs collected
-- [ ] Stack trace reviewed
+- [ ] Baseline metrics collected
+- [ ] Performance bottleneck identified
 
-## Backend
+## Optimization
 
-- [ ] API updated
-- [ ] Validation added
-- [ ] Unit tests written
+- [ ] Code optimized
+- [ ] Database queries reviewed
+- [ ] Caching evaluated
 
-## Frontend
+## Verification
 
-- [ ] UI updated
-- [ ] Error messages verified
-- [ ] Accessibility checked
-
-## Documentation
-
-- [ ] README updated
-- [ ] Release notes added
-
-## Deployment
-
-- [ ] Smoke tests completed
-- [ ] Monitoring enabled
+- [ ] Benchmark repeated
+- [ ] Improvement documented
